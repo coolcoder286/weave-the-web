@@ -30,6 +30,7 @@ li a {
 
 li a:hover {
 	background-color: green;
+
 }
 
 .heading{
@@ -47,4 +48,29 @@ li a:hover {
 
 body{
 	background-color: #FF9933;
+}
+
+.container{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.container img{
+	border: 5px solid green;
+	border-radius: 11px;
+}
+
+.orange{
+	color: #FF9933;
+}
+
+.green{
+	color: green;
+}
+
+.title{
+	font-weight: bolder;
+	font-size: 43px;
+	margin-left: 10px;
+	margin-top: 45px ;
 }
