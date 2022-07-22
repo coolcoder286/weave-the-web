@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
-*	{
-	margin:0;
-	padding:0;
+* {
+	margin: 0;
+	padding: 0;
 	font-family: 'Oswald', sans-serif;
 }
 
@@ -33,44 +33,75 @@ li a:hover {
 
 }
 
-.heading{
+.heading {
 	float: right;
 	padding: 0px 20px 0px 0px;
 	color: white;
 	font-size: 39px;
 }
 
-.image{
+.image {
 	float: right;
 	height: 58px;
-	width : 90px;
+	width: 90px;
 }
 
-body{
+body {
 	background-color: #FF9933;
 }
 
-.container{
+.container {
 	text-align: center;
 	margin-top: 20px;
 }
 
-.container img{
+.container img {
 	border: 5px solid green;
 	border-radius: 11px;
+	width: 70%;
 }
 
-.orange{
+.container h3 {
+	font-size: 27px;
+}
+
+.orange {
 	color: #FF9933;
 }
 
-.green{
+.green {
 	color: green;
 }
 
-.title{
+.title {
 	font-weight: bolder;
 	font-size: 43px;
 	margin-left: 10px;
-	margin-top: 45px ;
+	margin-top: 129px;
+}
+
+.paragraph {
+	margin-left: 12px;
+	margin-top: 2px;
+	font-size: 22px;
+}
+
+#quote cite {
+	font-size: 50px;
+	font-weight: 900;
+}
+
+.paraimage {
+	width: 336px;
+	float: right;
+	margin-right: 15px;
+}
+
+#quote {
+	text-align: center;
+	margin: 106px;
+}
+
+#paragraph {
+	margin-top: 2px;
 }
