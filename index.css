@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Oswald', sans-serif;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: yellowgreen;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	transition: background-color 0.5s;
+	font-size: 20px;
+}
+
+li a:hover {
+	background-color: green;
+
+}
+
+.heading {
+	float: right;
+	padding: 0px 20px 0px 0px;
+	color: white;
+	font-size: 39px;
+}
+
+.image {
+	float: right;
+	height: 58px;
+	width: 90px;
+}
+
+body {
+	background-color: #FF9933;
+}
+
+.container {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.container img {
+	border: 5px solid green;
+	border-radius: 11px;
+	width: 70%;
+}
+
+.container h3 {
+	font-size: 27px;
+}
+
+.orange {
+	color: #FF9933;
+}
+
+.green {
+	color: green;
+}
+
+.title {
+	font-weight: bolder;
+	font-size: 43px;
+	margin-left: 10px;
+	margin-top: 129px;
+}
+
+.paragraph {
+	margin-left: 12px;
+	margin-top: 2px;
+	font-size: 22px;
+}
+
+#quote cite {
+	font-size: 50px;
+	font-weight: 900;
+}
+
+.paraimage {
+	width: 336px;
+	float: right;
+	margin-right: 15px;
+}
+
+#quote {
+	text-align: center;
+	margin: 106px;
+}
+
+#paragraph {
+	margin-top: 5px;
+}
+

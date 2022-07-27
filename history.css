@@ -40,7 +40,7 @@ li a:hover {
 	font-size: 39px;
 }
 
-.image {
+#logo {
 	float: right;
 	height: 58px;
 	width: 90px;
@@ -48,21 +48,6 @@ li a:hover {
 
 body {
 	background-color: #FF9933;
-}
-
-.container {
-	text-align: center;
-	margin-top: 20px;
-}
-
-.container img {
-	border: 5px solid green;
-	border-radius: 11px;
-	width: 70%;
-}
-
-.container h3 {
-	font-size: 27px;
 }
 
 .orange {
@@ -73,35 +58,20 @@ body {
 	color: green;
 }
 
-.title {
-	font-weight: bolder;
-	font-size: 43px;
-	margin-left: 10px;
-	margin-top: 129px;
+.paragraph{
+    font-size: 22px;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
-.paragraph {
-	margin-left: 12px;
-	margin-top: 2px;
-	font-size: 22px;
+#title{
+    text-align: center;
+    font-size: 50px;
 }
 
-#quote cite {
-	font-size: 50px;
-	font-weight: 900;
-}
-
-.paraimage {
-	width: 336px;
-	float: right;
-	margin-right: 15px;
-}
-
-#quote {
-	text-align: center;
-	margin: 106px;
-}
-
-#paragraph {
-	margin-top: 2px;
+.head{
+    margin-left: 15px;
+    font-size: 30px;
+    margin-top: 5px;
 }
