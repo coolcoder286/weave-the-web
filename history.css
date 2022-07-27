@@ -63,6 +63,7 @@ body {
     margin-left: 15px;
     margin-top: 10px;
     margin-bottom: 10px;
+	overflow: hidden;
 }
 
 #title{
@@ -75,3 +76,11 @@ body {
     font-size: 30px;
     margin-top: 5px;
 }
+
+.image{
+	float: right;
+	width: 450px;
+	margin-right: 26px;
+	margin-top: 6px;
+}
+
